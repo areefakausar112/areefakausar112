@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @areefakausar112
-- 👀 learner :) 
+- 👀 Learner :) 
 - 🌱 I’m currently learning Data sci 
 - 💞️ I’m interested in ML, Data sci, software dev 
 
